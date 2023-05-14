@@ -2,7 +2,7 @@
 {
   "name": "Kazuha Theme",
   "description": "Purple",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "Banana",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/757204019939770388/1107383216911962212/wp10541372.png",
+    "url": "https://i.imgur.com/ugxah8i.jpeg",
     "alpha": 1.0
   }
 }
